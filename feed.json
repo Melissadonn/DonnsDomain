@@ -1,0 +1,28 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Miss Donns Domain",
+    "description": "",
+    "home_page_url": "https://melissadonn.github.io/DonnsDomain",
+    "feed_url": "https://melissadonn.github.io/DonnsDomain/feed.json",
+    "user_comment": "",
+    "icon": "https://melissadonn.github.io/DonnsDomain/media/website/circulare-simbol-logoai.png",
+    "author": {
+        "name": "Miss Donn"
+    },
+    "items": [
+        {
+            "id": "https://melissadonn.github.io/DonnsDomain/hello-welcome-to-my-domain/",
+            "url": "https://melissadonn.github.io/DonnsDomain/hello-welcome-to-my-domain/",
+            "title": "Hello, Welcome to My Domain,",
+            "summary": "I'm Donn, a reclusive creative creature who wears many masks and aspires to be a better human than they were before.",
+            "content_html": "\n  <p>\n    I'm Donn, a reclusive creative creature who wears many masks and aspires to be a better human than they were before.\n  </p>",
+            "author": {
+                "name": "Miss Donn"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-04-26T11:55:22-07:00",
+            "date_modified": "2025-04-26T11:55:22-07:00"
+        }
+    ]
+}
